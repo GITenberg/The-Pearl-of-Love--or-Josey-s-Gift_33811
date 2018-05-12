@@ -1,0 +1,35 @@
+_repo: The-Pearl-of-Love--or-Josey-s-Gift_33811
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leslie, Madeline
+    aliases:
+    - Hattie, Aunt
+    - Aunt Hattie
+    - Baker, Harriette Newell Woods
+    birthdate: 1815
+    deathdate: 1893
+    gutenberg_agent_id: '31136'
+    url: http://www.gutenberg.org/2009/agents/31136
+    wikipedia: http://en.wikipedia.org/wiki/Harriette_Newell_Woods_Baker
+description: ''
+gutenberg_issued: '2010-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33811'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love -- Juvenile fiction'
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+title: The Pearl of Love; or, Josey's Gift
+url: http://www.gutenberg.org/ebooks/33811
